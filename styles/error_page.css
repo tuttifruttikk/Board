@@ -1,0 +1,25 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Georgia, serif;
+}
+
+body {
+	background-color: rgb(227, 81, 48);
+}
+
+div.error-header {
+	font-size: 32pt;
+	margin-left: auto;
+	margin-top: 20%;
+   	margin-right: auto;
+   	width: 20em
+   	font-style:italic
+}	
+
+div.error-text {
+	font-size: 20pt;
+	margin-left: auto;
+   	margin-right: auto;
+   	width: 20em
+}

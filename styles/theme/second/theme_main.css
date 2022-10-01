@@ -1,0 +1,54 @@
+* {
+	font-family: "Times New Roman", cursive;
+
+}
+
+
+body {
+	background-color: rgb(25, 97, 133);
+}
+
+
+div.header {
+	background-color: rgba(25, 97, 133, 0.5);
+	border-bottom: 2px auto rgb(217, 217, 46);
+	color: rgb(250, 250, 250);
+}
+
+
+div.header-name {
+	font-size: 20pt;
+}
+
+
+a.menu-button {
+	background-color: rgb(87, 218, 169);
+	transition: .4s ease-out;
+}
+
+
+a.menu-button:hover {
+	background-color: rgb(255, 0, 0);
+}
+
+
+div.board-advertisement {
+	background-color: rgb(87, 218, 169);
+	border:  2px solid rgb(23, 87, 13);
+	border-radius: 5px;
+}
+
+
+div.board-advertisement-header {
+	border-bottom:  2px solid rgb(23, 87, 13);
+}
+
+
+div.board-advertisement-header-header {
+	font-size: 14pt;
+}
+
+
+div.boardvertisement-ad-header-author {
+	font-size: 9pt;
+}

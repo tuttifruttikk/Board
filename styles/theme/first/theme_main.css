@@ -1,0 +1,56 @@
+* {
+	font-family: Georgia, serif;
+
+}	
+
+
+body {
+	background-color: rgb(135, 108, 153);
+}
+
+
+div.header {
+	background-color: rgb(80, 64, 92);
+	border-bottom: 1px solid rgb(170, 151, 183);
+	color: rgb(217, 203, 158);
+}
+
+
+div.header-name {
+	font-size: 20pt;
+}
+
+
+a.menu-button {
+	color: rgb(217, 203, 158);
+
+	transition: .4s ease-out;
+}
+
+
+a.menu-button:hover {
+	background-color: rgb(217, 203, 158);
+}
+
+
+div.board-advertisement {
+	background-color: rgb(217, 203, 158);
+	color: rgb(33, 30, 27);
+	border: 2px solid rgb(93, 80, 37);
+	border-radius: 5px;
+}
+
+
+div.board-advertisement-header {
+	border-bottom: 2px solid rgb(62, 53, 24);
+}
+
+
+div.board-advertisement-header-name {
+	font-size: 14pt;
+}
+
+
+div.board-advertisement-header-info {
+	font-size: 9pt;
+}

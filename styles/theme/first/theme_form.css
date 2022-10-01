@@ -1,0 +1,40 @@
+* {
+	font-family: Georgia, serif;
+}
+
+
+body {
+	background-color: rgb(135, 108, 153);
+}
+
+
+div.label {
+	font-size: 12pt;
+}
+
+
+input[type='text'], input[type='password'] {
+	font-size: 12pt;
+}
+
+
+textarea.textarea-new-advertisement, input[type='text'], input[type='password'] {
+	border: 2px solid rgb(93, 80, 37);
+	border-radius: 3px;
+}
+
+
+input[type='submit'] {
+	background-color: rgb(217, 203, 158);
+	border: 2px solid rgb(93, 80, 37;
+	border-radius: 3px;
+
+	font-size: 12pt;
+
+	transition: .4s ease-out;
+}
+
+
+input[type='submit']:hover {
+	background-color: rgb(217, 203, 158);
+}
